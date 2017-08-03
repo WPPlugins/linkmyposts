@@ -1,0 +1,32 @@
+.notVisibleLinks
+{
+    background-color:blue;
+    text-align:center;
+    color:#fff
+}
+a.notVisibleLinks:link
+{
+    color:#ffffff;
+    margin-left:10px;
+    margin-right:10px;
+}
+a.notVisibleLinks:visited
+{
+    color:#ffffff;
+    margin-left:10px;
+    margin-right:10px;
+}
+a.notVisibleLinks:hover
+{
+    color:#000;
+    margin-left:10px;
+    margin-right:10px;
+    background-color:#f0f0f0
+}
+.visibleLink
+{
+    background-color:white;
+    color: black;
+    padding-left:10px;
+    padding-right:10px;
+}
